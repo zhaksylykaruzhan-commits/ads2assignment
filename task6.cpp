@@ -17,3 +17,4 @@ bool check( const Node* root, int min, int max) {
     return check(root->left, min, root->data) &&
            check(root->right, root->data, max);
 }
+//дерево бст
