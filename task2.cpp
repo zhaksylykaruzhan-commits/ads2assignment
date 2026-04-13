@@ -21,3 +21,4 @@ bool hasCycle ( Node* head) {
     return false;
 }
 
+//есть ли в линкед лист
