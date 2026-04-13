@@ -19,4 +19,5 @@ int main() {
     cout << arr[k - 1];
 
     return 0;
-}
+}    
+// к самый улк эл
